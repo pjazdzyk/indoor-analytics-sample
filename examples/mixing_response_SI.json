@@ -1,0 +1,38 @@
+{
+  "mixingStrategy": "MixingOfTwoFlows",
+  "outletAirFlow": {
+    "outletVapourState": "UNSATURATED",
+    "outletPressure": {
+      "value": 101325,
+      "unit": "Pa"
+    },
+    "outletTemperature": {
+      "value": 2.3017074509397206,
+      "unit": "°C"
+    },
+    "outletRelativeHumidity": {
+      "value": 50.102342258665956,
+      "unit": "%"
+    },
+    "outletHumidityRatio": {
+      "value": 0.002226296136380328,
+      "unit": "kg/kg"
+    },
+    "outletSpecificEnthalpy": {
+      "value": 7.887566845338594,
+      "unit": "kJ/kg"
+    },
+    "outletMassFlow": {
+      "value": 10.638934361288483,
+      "unit": "kg/s"
+    },
+    "outletDryAirMassFlow": {
+      "value": 10.615301556446852,
+      "unit": "kg/s"
+    },
+    "outletVolFlow": {
+      "value": 29999.528852655298,
+      "unit": "m³/h"
+    }
+  }
+}

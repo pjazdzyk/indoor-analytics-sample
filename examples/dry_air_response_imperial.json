@@ -1,0 +1,37 @@
+{
+  "temperature": {
+    "value": 68,
+    "unit": "°F"
+  },
+  "pressure": {
+    "value": 14.69594877551422,
+    "unit": "psi"
+  },
+  "density": {
+    "value": 0.07516934144134929,
+    "unit": "lb/ft³"
+  },
+  "specificHeat": {
+    "value": 0.23996648469012488,
+    "unit": "BTU/(lb·°F)"
+  },
+  "specificEnthalpy": {
+    "value": 8.638793435371502,
+    "unit": "BTU/lb"
+  },
+  "dynamicViscosity": {
+    "value": 0.00018062406974316943,
+    "unit": "P"
+  },
+  "kinematicViscosity": {
+    "value": 0.000161467120375862,
+    "unit": "ft²/s"
+  },
+  "thermalConductivity": {
+    "value": 0.014981914403211625,
+    "unit": "BTU/(h·ft·°F)"
+  },
+  "prandtlNumber": {
+    "value": 0.6998588665618015
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "inputCoolingPower": {
+    "value": -20,
+    "unit": "kW"
+  },
+  "coolantData": {
+    "supplyTemperature": {
+      "value": 7,
+      "unit": "oC"
+    },
+    "returnTemperature": {
+      "value": 14,
+      "unit": "oC"
+    }
+  },
+  "inletAirFlow": {
+    "inletPressure": {
+      "value": 101325,
+      "unit": "Pa"
+    },
+    "inletTemperature": {
+      "value": 35,
+      "unit": "oC"
+    },
+    "inletRelativeHumidity": {
+      "value": 55,
+      "unit": "%"
+    },
+    "inletVolFlow": {
+      "value": 30000,
+      "unit": "m3/h"
+    }
+  }
+}

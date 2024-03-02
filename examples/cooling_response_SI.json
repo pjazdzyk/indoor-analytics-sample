@@ -1,0 +1,71 @@
+{
+  "coolingStrategy": "CoolingFromTemperature",
+  "coolingPower": {
+    "value": -201.9835545421006,
+    "unit": "kW"
+  },
+  "bypassFactor": {
+    "value": 0.5918367346938775
+  },
+  "outletAirFlow": {
+    "outletVapourState": "UNSATURATED",
+    "outletPressure": {
+      "value": 101325,
+      "unit": "Pa"
+    },
+    "outletTemperature": {
+      "value": 25,
+      "unit": "°C"
+    },
+    "outletRelativeHumidity": {
+      "value": 74.41215566855045,
+      "unit": "%"
+    },
+    "outletHumidityRatio": {
+      "value": 0.01482064858911237,
+      "unit": "kg/kg"
+    },
+    "outletSpecificEnthalpy": {
+      "value": 62.879328533666126,
+      "unit": "kJ/kg"
+    },
+    "outletMassFlow": {
+      "value": 9.209299130730814,
+      "unit": "kg/s"
+    },
+    "outletDryAirMassFlow": {
+      "value": 9.074804640144388,
+      "unit": "kg/s"
+    },
+    "outletVolFlow": {
+      "value": 28675.28531723284,
+      "unit": "m³/h"
+    }
+  },
+  "waterCondensateFlow": {
+    "condPressure": {
+      "value": 101325,
+      "unit": "Pa"
+    },
+    "condTemperature": {
+      "value": 10.5,
+      "unit": "°C"
+    },
+    "condSpecificHeat": {
+      "value": 4.194738833989782,
+      "unit": "kJ/(kg·K)"
+    },
+    "condSpecificEnthalpy": {
+      "value": 44.044757756892714,
+      "unit": "kJ/kg"
+    },
+    "condMassFlow": {
+      "value": 0.04335716065700021,
+      "unit": "kg/s"
+    },
+    "condVolFlow": {
+      "value": 0.00004337913078453204,
+      "unit": "m³/s"
+    }
+  }
+}
