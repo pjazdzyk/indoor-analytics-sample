@@ -1,0 +1,6 @@
+logging:
+  level:
+    "com.synerset": debug
+
+server:
+  port: 8090

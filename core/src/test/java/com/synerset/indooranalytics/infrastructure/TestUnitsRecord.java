@@ -1,0 +1,47 @@
+package com.synerset.indooranalytics.infrastructure;
+
+import com.synerset.unitility.unitsystem.common.*;
+import com.synerset.unitility.unitsystem.dimensionless.BypassFactor;
+import com.synerset.unitility.unitsystem.dimensionless.GrashofNumber;
+import com.synerset.unitility.unitsystem.dimensionless.PrandtlNumber;
+import com.synerset.unitility.unitsystem.dimensionless.ReynoldsNumber;
+import com.synerset.unitility.unitsystem.flow.MassFlow;
+import com.synerset.unitility.unitsystem.flow.VolumetricFlow;
+import com.synerset.unitility.unitsystem.humidity.HumidityRatio;
+import com.synerset.unitility.unitsystem.humidity.RelativeHumidity;
+import com.synerset.unitility.unitsystem.mechanical.Force;
+import com.synerset.unitility.unitsystem.mechanical.Momentum;
+import com.synerset.unitility.unitsystem.mechanical.Torque;
+import com.synerset.unitility.unitsystem.thermodynamic.*;
+
+record TestUnitsRecord(
+        Angle angle,
+        Area area,
+        Distance distance,
+        Mass mass,
+        Velocity velocity,
+        Volume volume,
+        BypassFactor bypassFactor,
+        GrashofNumber grashofNumber,
+        PrandtlNumber prandtlNumber,
+        ReynoldsNumber reynoldsNumber,
+        MassFlow massFlow,
+        VolumetricFlow volumetricFlow,
+        HumidityRatio humidityRatio,
+        RelativeHumidity relativeHumidity,
+        Force force,
+        Momentum momentum,
+        Torque torque,
+        Density density,
+        DynamicViscosity dynamicViscosity,
+        Energy energy,
+        KinematicViscosity kinematicViscosity,
+        Power power,
+        Pressure pressure,
+        SpecificEnthalpy specificEnthalpy,
+        SpecificHeat specificHeat,
+        Temperature temperature,
+        ThermalConductivity thermalConductivity,
+        ThermalDiffusivity thermalDiffusivity
+) {
+}

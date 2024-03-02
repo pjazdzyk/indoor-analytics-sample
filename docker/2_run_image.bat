@@ -1,0 +1,1 @@
+docker run -d -p 8090:8090 --name indoor-analytics indoor-analytics

@@ -1,0 +1,42 @@
+{
+  "heatingStrategy": "HeatingFromRH",
+  "heatingPower": {
+    "value": 501172.7481170352,
+    "unit": "BTU/h"
+  },
+  "outletAirFlow": {
+    "outletVapourState": "UNSATURATED",
+    "outletPressure": {
+      "value": 14.69594877551422,
+      "unit": "psi"
+    },
+    "outletTemperature": {
+      "value": 18.702231830767868,
+      "unit": "°F"
+    },
+    "outletRelativeHumidity": {
+      "value": 30.000000000000043,
+      "unit": "%"
+    },
+    "outletHumidityRatio": {
+      "value": 0.0013287895860414254,
+      "unit": "lb/lb"
+    },
+    "outletSpecificEnthalpy": {
+      "value": -2.5419240200823157,
+      "unit": "BTU/lb"
+    },
+    "outletMassFlow": {
+      "value": 25.58808853753219,
+      "unit": "lb/s"
+    },
+    "outletDryAirMassFlow": {
+      "value": 25.57267514927752,
+      "unit": "lb/s"
+    },
+    "outletVolFlow": {
+      "value": 18537.05086566841,
+      "unit": "ft³/min"
+    }
+  }
+}

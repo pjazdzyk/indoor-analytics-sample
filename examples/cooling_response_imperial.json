@@ -1,0 +1,71 @@
+{
+  "coolingStrategy": "CoolingFromTemperature",
+  "coolingPower": {
+    "value": -689196.4956602697,
+    "unit": "BTU/h"
+  },
+  "bypassFactor": {
+    "value": 0.5918367346938775
+  },
+  "outletAirFlow": {
+    "outletVapourState": "UNSATURATED",
+    "outletPressure": {
+      "value": 14.69594877551422,
+      "unit": "psi"
+    },
+    "outletTemperature": {
+      "value": 77,
+      "unit": "°F"
+    },
+    "outletRelativeHumidity": {
+      "value": 74.41215566855045,
+      "unit": "%"
+    },
+    "outletHumidityRatio": {
+      "value": 0.03267393715002834,
+      "unit": "lb/lb"
+    },
+    "outletSpecificEnthalpy": {
+      "value": 27.033245285325076,
+      "unit": "BTU/lb"
+    },
+    "outletMassFlow": {
+      "value": 20.30302919498142,
+      "unit": "lb/s"
+    },
+    "outletDryAirMassFlow": {
+      "value": 20.006519598520555,
+      "unit": "lb/s"
+    },
+    "outletVolFlow": {
+      "value": 16877.63573536122,
+      "unit": "ft³/min"
+    }
+  },
+  "waterCondensateFlow": {
+    "condPressure": {
+      "value": 14.69594877551422,
+      "unit": "psi"
+    },
+    "condTemperature": {
+      "value": 50.900000000000006,
+      "unit": "°F"
+    },
+    "condSpecificHeat": {
+      "value": 1.0018961594850158,
+      "unit": "BTU/(lb·°F)"
+    },
+    "condSpecificEnthalpy": {
+      "value": 18.935837384734615,
+      "unit": "BTU/lb"
+    },
+    "condMassFlow": {
+      "value": 0.09558617720355439,
+      "unit": "lb/s"
+    },
+    "condVolFlow": {
+      "value": 0.0919151727794169,
+      "unit": "ft³/min"
+    }
+  }
+}

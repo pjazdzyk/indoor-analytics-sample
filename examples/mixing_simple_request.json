@@ -1,0 +1,38 @@
+{
+  "inletAirFlow": {
+    "inletPressure": {
+      "value": 101325,
+      "unit": "Pa"
+    },
+    "inletTemperature": {
+      "value": -20,
+      "unit": "oC"
+    },
+    "inletRelativeHumidity": {
+      "value": 95,
+      "unit": "%"
+    },
+    "inletVolFlow": {
+      "value": 10000,
+      "unit": "m3/h"
+    }
+  },
+  "recirculationAirFlow": {
+    "inletPressure": {
+      "value": 101325,
+      "unit": "Pa"
+    },
+    "inletTemperature": {
+      "value": 15,
+      "unit": "oC"
+    },
+    "inletRelativeHumidity": {
+      "value": 30,
+      "unit": "%"
+    },
+    "inletVolFlow": {
+      "value": 20000,
+      "unit": "m3/h"
+    }
+  }
+}
