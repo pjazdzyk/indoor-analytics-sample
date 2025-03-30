@@ -19,14 +19,6 @@ and application design. A more advanced version of this application is being dev
 for commercialization at a later stage.
 
 ![Build And Test](https://github.com/pjazdzyk/indoor-analytics-sample/actions/workflows/build-test-analyze.yml/badge.svg) &nbsp;
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=coverage)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
 
 > AUTHOR: **Piotr Jazdzyk**, MSc Eng <br>
 > LINKEDIN: https://www.linkedin.com/in/pjazdzyk <br>
