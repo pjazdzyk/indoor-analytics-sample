@@ -19,14 +19,6 @@ and application design. A more advanced version of this application is being dev
 for commercialization at a later stage.
 
 ![Build And Test](https://github.com/pjazdzyk/indoor-analytics-sample/actions/workflows/build-test-analyze.yml/badge.svg) &nbsp;
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=pjazdzyk_indoor-analytics-sample&metric=coverage)](https://sonarcloud.io/summary/new_code?id=pjazdzyk_indoor-analytics-sample)
-&nbsp;
 
 > AUTHOR: **Piotr Jazdzyk**, MSc Eng <br>
 > LINKEDIN: https://www.linkedin.com/in/pjazdzyk <br>
@@ -62,8 +54,6 @@ Core: <br>
 
 CI/CD:<br>
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-&nbsp;
-![image](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) &nbsp;
 
 Engineering:<br>
 [![Unitility](https://img.shields.io/badge/UNITILITY-2.3.0-13ADF3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMi41bW0iIGhlaWdodD0iMTQuNW1tIiB2aWV3Qm94PSIwIDAgMjI1MCAxNDUwIj4NCiAgPHBvbHlnb24gZmlsbD0iIzUwN0QxNCIgcG9pbnRzPSIyMjQxLjAzLDE1Ljg4IDExMzYuMzgsMTUuODQgOTA1Ljg4LDQxNS4xIDIwMTAuNTMsNDE1LjA5IiAvPg0KICA8cG9seWdvbiBmaWxsPSIjNzFBQjIzIiBwb2ludHM9IjExMTYuMzgsMTUuODQgNjU1Ljk5LDE1Ljg0IDQ5NC4xNSwyOTYuMTcgNzI4LjM1LDY5NC44OCIgLz4NCiAgPHBvbHlnb24gZmlsbD0iIzhBQzkzNCIgcG9pbnRzPSI0ODQuMTUsMzA2LjE3IDI1NS4wNiw3MDIuOTYgMzg3LjY2LDkzMi42NCA4NDUuODMsOTMyLjYzIiAvPg0KICA8cG9seWdvbiBmaWxsPSIjNThEMEZGIiBwb2ludHM9Ii03LjE3LDE0NDAuMDkgMTA5Ny45NywxNDQwLjA4IDEzMjguNDcsMTA0MC44MyAyMjMuMzIsMTA0MC44NSIgLz4NCiAgPHBvbHlnb24gZmlsbD0iIzEzQURGMyIgcG9pbnRzPSIxNzM5LjA0LDExNjAuOTEgMTUwOS4wOSw3NjIuNjQgMTExNy45NywxNDQwLjA4IDExODYuOTMsMTQ0MC4wOCAxNTc3Ljg3LDE0NDAuMDgiIC8+DQogIDxwb2x5Z29uIGZpbGw9IiMwMzkzRDAiIHBvaW50cz0iMTk3OC44LDc1Mi45NiAxODQ2LjIsNTIzLjMgMTM4Ni42OCw1MjMuMyAxNzQ5LjA0LDExNTAuOTEiIC8+DQo8L3N2Zz4=)](https://github.com/pjazdzyk/Unitility) &nbsp;

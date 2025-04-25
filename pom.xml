@@ -76,16 +76,6 @@
         <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
         <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
         <maven-surefire-plugin.version>3.2.2</maven-surefire-plugin.version>
-        <!-- Sonar Cloud Properties-->
-        <sonar.organization>synerset</sonar.organization>
-        <sonar.projectKey>pjazdzyk_indoor-analytics-sample</sonar.projectKey>
-        <sonar.moduleKey>${project.groupId}:${project.artifactId}</sonar.moduleKey>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
-        <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
-        <sonar.language>java</sonar.language>
-        <sonar.binaries>target/classes</sonar.binaries>
-        <sonar.exclusions>**/indooranalyticsapi/**/*.java</sonar.exclusions>
     </properties>
 
     <build>
